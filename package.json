@@ -14,9 +14,9 @@
   "dependencies": {
     "sorta": "0.0.5",
     "append-only": "~0.2.3",
-    "shoe": "0.0.10",
-    "browserify": "~2.12.0",
-    "reconnect": "~1.1.1"
+    "shoe": "0.0.15",
+    "browserify": "~13.1.1",
+    "reconnect": "~2.0.2"
   },
   "devDependencies": {
     "tap": "*"
